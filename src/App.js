@@ -53,6 +53,36 @@ const App = () => {
 		<div className="app"> 
 			<h1> Zabby Event Calendar Application </h1> 
 			<hr></hr>
+			
+			<div className="contain">
+			<div class="row">
+  				<div class="column">
+				  <h2>How To</h2>
+  					<p>Select an event date/month.</p>
+					<p>Choose a name for the event.</p>
+					<p>Add the selected event name.</p>
+					<p>Select 2 or more events & names.</p>
+					<p>Event list is created for reference.</p>
+  </div>
+  <div class="column">
+  <h2>Quotes</h2>
+  <p>Learn to get in touch with the silence within yourself, and know that everything 
+	in life has purpose. There are no mistakes, no coincidences, all events are blessings 
+	given to us to learn from. - Elizabeth Kubler-Ross
+</p>
+<p>Art is the most beautiful deception of all. And although people try to incorporate the 
+	everyday events of life in it, we must hope that it will remain a deception lest it 
+	become a utilitarian thing, sad as a factory. - "Claude Debussy"
+</p>
+
+  </div>
+</div>
+			
+				
+				
+			</div>
+			
+				
 			<div className="container"> 
 			
 				<div className="calendar-container"> 
